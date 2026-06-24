@@ -1,4 +1,3 @@
-# Logistics-Job-Market-Analysis
 # Logistics Job Market Analysis & Web Scraping
 
 ## Overview
